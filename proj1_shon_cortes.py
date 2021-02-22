@@ -155,7 +155,7 @@ if __name__ == "__main__":
         node_path.append(visited_list[x])
         
     file.write("Name: nodePath.txt\n")
-    file.write("Node explored:\n")
+    file.write("Nodes explored:\n")
     for element in node_path:
         file.write(element)
         file.write('\n')

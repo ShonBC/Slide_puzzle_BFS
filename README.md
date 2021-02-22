@@ -17,5 +17,5 @@ Run the program:
     line 141      test_case = test_case_1
     line 142      file = open("nodePath" + "_test_case_1" + ".txt", "a")
 
-  The program should create a .txt file labeled with the chosen test case if it doesnt already exist 
+  The program will create a .txt file labeled with the chosen test case if it doesnt already exist 
   and write the nodes visited in order from initial state to goal state.
